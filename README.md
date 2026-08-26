@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dylan Proctor
+# Hi, I'm Dylan Proctor
 
 I'm a software developer passionate about building tools, solving problems creatively, and turning ideas into real, usable products. I’m currently a **Ruby on Rails Developer** and a **Computer Programming & Analysis student**, graduating December 2025 with a 3.9+ GPA.
 
